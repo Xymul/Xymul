@@ -2,4 +2,4 @@
 
 ![Xymul Github Stats](https://github-readme-stats.vercel.app/api?username=Xymul)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xymul&langs_count=6&layout=compact&role=OWNER,ORGANIZATION_MEMBER)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Xymul&layout=compact&role=OWNER,ORGANIZATION_MEMBER&org=AzurLaneUtils)
