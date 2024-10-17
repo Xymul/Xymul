@@ -1,8 +1,9 @@
-<a href="https://github-readme-stats.vercel.app/api?username=Xymul">
-  <image align="right" src="https://github-readme-stats.vercel.app/api?username=Xymul" />
-</a>
 
-现HZAU的一名普通本科生，地信专业
-现在写写代码就当是磨练自己能力了
+<p align="center">
+  <image src="https://github-readme-stats.vercel.app/api?username=Xymul"></image>
+   <image src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Xymul&layout=compact&role=OWNER"></image>
+</p>
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Xymul&layout=compact&role=OWNER)
+---
+
+HZAU本科地信专业在读，偶尔摸鱼写点代码
